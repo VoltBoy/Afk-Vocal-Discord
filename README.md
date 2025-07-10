@@ -27,3 +27,10 @@ Si vous avez des difficultés pour intaller les dépendances où des problèmes 
   "emojistatus": "🎥",                      changer l'émoji de votre statut
   "stream_url": "https://twitch.tv/xx"      changer l'url du stream
 }
+
+
+
+
+Ne partagez pas votre token avec d'autres personnes, ne volez pas le script en disant que c'est vous qui l'avez crée.
+
+Bonne journée
