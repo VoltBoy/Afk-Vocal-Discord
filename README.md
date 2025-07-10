@@ -1,11 +1,14 @@
 # Afk-vocal
+
 Sert à laissé votre compte en vocal sans avoir besoin de laissé discord ouvert tout en personnalisant votre statut directement dans le script.
 
-Pour le configuré il vous suffit juste de modifié le config.json et de glisser le(s) token(s) dans tokens.txt si il y en a plusieurs il faut faire 1 ligne pour 1 token.
+
+
+Pour le configuré il vous suffit juste de modifié le config.json et de glisser le(s) token(s) dans "tokens.txt" si il y en a plusieurs il faut faire 1 ligne pour 1 token.
 
 
 
-Pour lancer le script il suffit d'installer les bonnes versions des dépendances grâce au start.bat qui va installer à votre place, puis d'ouvrir votre cmd et de faire la commande "node ."
+Pour lancer le script il suffit d'installer les bonnes versions des dépendances grâce au "start.bat" qui va installer à votre place, puis d'ouvrir votre cmd et de faire la commande "node ."
 
 
 
